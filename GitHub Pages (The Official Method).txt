@@ -1,0 +1,8 @@
+GitHub Pages (The Official Method)
+For permanent hosting and full browser rendering, GitHub provides GitHub Pages. This native feature transforms any repository into a live static website.
+
+How it works: You configure a branch (typically main or gh-pages) or a specific folder (/docs) within your repository settings.
+
+The URL: Once deployed, your files become accessible at https://<username>.github.io/<repository-name>/<filename>.html.
+
+Utility: Ideal for documentation, portfolios, and production-ready web projects.
