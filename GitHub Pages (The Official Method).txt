@@ -6,3 +6,7 @@ How it works: You configure a branch (typically main or gh-pages) or a specific 
 The URL: Once deployed, your files become accessible at https://<username>.github.io/<repository-name>/<filename>.html.
 
 Utility: Ideal for documentation, portfolios, and production-ready web projects.
+
+
+my link yia web :
+ https://eliben007.github.io/web_exp2/web_home.html.
